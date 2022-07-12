@@ -1,5 +1,5 @@
 #Eye Tracker Module - Coded by Spy (Github) - Code is completely open source, you can change it and even use it however you want#
-from pickle import TRUE
+
 import cv2
 import numpy as np
 
