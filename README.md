@@ -27,10 +27,15 @@ To run any project/module:
 
 2. Navigate into the project directory:
     ```bash
-    cd basic-python-projects
+    cd Basic_Python
     ```
 
-3. Run the Python file you want to try:
+3. Navigate into a program folder:
+    ```bash
+    cd Simple_Python_Examples
+    ```
+
+4. Run the Python file you want to try:
     ```bash
     python filename.py
     ```
